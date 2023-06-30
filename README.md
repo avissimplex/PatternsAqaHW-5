@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9g7fqh9eycmk1x14?svg=true)](https://ci.appveyor.com/project/avissimplex/patternsaqahw-4)
+[![Build status](https://ci.appveyor.com/api/projects/status/j0ag6eaurq3cbtk1?svg=true)](https://ci.appveyor.com/project/avissimplex/patternsaqahw-5)
